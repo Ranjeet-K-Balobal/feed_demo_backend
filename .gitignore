@@ -1,0 +1,11 @@
+# Binaries
+*.exe
+*.exe~
+*.out
+*.test
+
+# Dependency directories
+/vendor/
+
+# Environment variables
+.env
